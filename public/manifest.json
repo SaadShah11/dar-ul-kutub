@@ -1,0 +1,26 @@
+{
+  "short_name": "Dar Ul Kutub",
+  "name": "Dar Ul Kutub - Islamic Books Store",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/darulkutub-f03ac.appspot.com/o/darulkutub_logo1.png?alt=media&token=6972a553-978c-4dca-86f0-61174de9a195",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://firebasestorage.googleapis.com/v0/b/darulkutub-f03ac.appspot.com/o/darulkutub_logo1.png?alt=media&token=6972a553-978c-4dca-86f0-61174de9a195",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
